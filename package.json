@@ -1,0 +1,19 @@
+{
+  "name": "009.svetikcloudybank",
+  "version": "1.0.0",
+  "description": "1. install node\r 2. create folder server\r 3. cd server\r 4. create server.js\r 5. npm init   (pres Enter Enter Enter ...)\r 6. npm install\r 7. npm install --save cors\r 8. npm install --save express\r 9. npm install --save body-parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
